@@ -15,8 +15,8 @@
     <a href="mailto:<your-email@example.com>">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/<your-github-username>">
-      <img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Oussama098">
+      <img src="https://komarev.com/ghpvc/?username=Oussama098&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -81,7 +81,7 @@
 
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Oussama098&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama098&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
