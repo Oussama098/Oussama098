@@ -82,7 +82,7 @@
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama098&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
